@@ -8,15 +8,14 @@ In this third practical application assignment, your goal is to compare the perf
 The dataset used comes from the UCI Machine Learning repository. The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. 
 
 # Data clean up and processing
-Outlier treatment
-Missing value treatment
-Delete features
-Convert data type
-Split into training (0.7) and test (0.3)
+-Outlier treatment, Missing value treatment
+-Delete features
+-Convert data type
+-Split into training (0.7) and test (0.3)
 
 # Modeling
-Logistic regression
-K-nearest neighbors
-Decision tree
+- Logistic regression
+- K-nearest neighbors
+- Decision tree
 
 # Colcusion
