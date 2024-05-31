@@ -18,6 +18,10 @@ The dataset used comes from the UCI Machine Learning repository. The data is fro
 - K-nearest neighbors
 - Decision tree
 
+# Deliverable
+
+prompt_III[1].ipynb
+
 # Colcusion
 
 KNN Report:
